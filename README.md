@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshtomar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshtomar" /> </p>
 
-- 🔭 I’m currently working on [an E-Commerce Website](https://github.com/shreyanshtomar/mystic-space)
-
-- 🌱 I’m currently learning **React, Redux, GraphQL & Solving Problems**
-
-- 👨‍💻 All of my projects are available at [www.shreyanshtomar.codes](www.shreyanshtomar.codes)
+- 👨‍💻 All of my projects are available [https://github.com/shreyanshtomar?tab=repositories](here.)
 
 - 💬 Ask me about **Web Development, Deep Learning**
 

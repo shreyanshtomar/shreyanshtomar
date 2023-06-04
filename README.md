@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available [https://github.com/shreyanshtomar?tab=repositories](here.)
 
-- 💬 Ask me about **Web Development, Deep Learning**
-
 - 📫 How to reach me **shreyanshtomar99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

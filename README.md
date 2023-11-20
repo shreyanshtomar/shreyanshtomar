@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshtomar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshtomar" /> </p>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/shreyanshtomar?tab=repositories).
-
 - 📫 How to reach me **shreyanshtomar99@gmail.com**
+- Resume : https://bit.ly/shreyansh_resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

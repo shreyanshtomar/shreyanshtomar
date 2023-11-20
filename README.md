@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/shreyanshtomar?tab=repositories).
 - 📫 How to reach me **shreyanshtomar99@gmail.com**
-- Resume : https://bit.ly/shreyansh_resume
+- Resume : [Click here](https://bit.ly/shreyansh_resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
